@@ -192,14 +192,9 @@ url: "https://docs.pacioli.io"
 
 ## License
 
-This documentation is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+This documentation is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**, consistent with the main Pacioli project.
 
-You are free to:
-- **Share** - copy and redistribute in any medium or format
-- **Adapt** - remix, transform, and build upon the material
-
-Under the following terms:
-- **Attribution** - You must give appropriate credit to Pacioli
+See [LICENSE](LICENSE) for the full license text.
 
 ---
 
